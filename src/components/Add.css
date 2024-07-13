@@ -1,0 +1,24 @@
+.addBtn{
+    /* height: 5em;
+    width: 5em; */
+    border: none;
+    background: white;
+    /* height: 1.5em;
+    width: 1.5em; */
+    border-radius: 20px;
+    font-size: 2.5em;
+    position: absolute;
+    /* text-align: center; */
+    font-weight: 600;
+    /* padding-top: -150px; */
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    top: -20px;
+    left: 175px;
+    transition: 0.5s;
+}
+.addBtn:hover{
+    background:  rgb(238,174,202);
+    background: radial-gradient(circle, rgba(30,174,202,1) 0%, rgba(168,13,152,0.8827906162464986) 100%);
+}
